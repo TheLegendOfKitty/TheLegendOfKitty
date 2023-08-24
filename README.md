@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Parsa 👋
 
 <!--
 **TheLegendOfKitty/TheLegendOfKitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Project Directory:
+
+* [ECDH Chat](https://github.com/TheLegendOfKitty/ecdh), encrypted chat app with a curses-style interface
+* [snapepixel](https://github.com/TheLegendOfKitty/snakepixel-beta), outdated hypixel API wrapper
+* [Nebulus](https://github.com/TheLegendOfKitty/ProjectNebulus), schoology clone with [nicholasxwang](https://github.com/nicholasxwang) & others
+* [Pong](https://github.com/TheLegendOfKitty/pong), simple pong game
+* [Waveform modulation tests](https://github.com/TheLegendOfKitty/waveforms)
