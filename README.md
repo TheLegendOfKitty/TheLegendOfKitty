@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## Project Directory:
 
 * [ECDH Chat](https://github.com/TheLegendOfKitty/ecdh), encrypted chat app with a curses-style interface
+* [tui-chat](https://github.com/TheLegendOfKitty/tui-chat), successor to ECDH Chat with image capabilities
 * [snapepixel](https://github.com/TheLegendOfKitty/snakepixel-beta), outdated hypixel API wrapper
 * [Nebulus](https://github.com/TheLegendOfKitty/ProjectNebulus), schoology clone with [nicholasxwang](https://github.com/nicholasxwang) & others
 * [Pong](https://github.com/TheLegendOfKitty/pong), simple pong game
