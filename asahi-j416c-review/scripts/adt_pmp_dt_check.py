@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Compare a compiled Linux DTB's PMP node against Apple ADT iop-pmp-nub data.
+"""Compare a compiled t602x Linux DTB's PMP node (/soc/pmp@28e700000) against
+Apple ADT /arm-io/pmp/iop-pmp-nub data.
 
 For every ADT given, reports per property whether the DTB's
 apple,tunable-<name> is identical, differs (with the first differing byte),

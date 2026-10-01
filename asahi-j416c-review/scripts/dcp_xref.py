@@ -136,7 +136,7 @@ class MachO:
                 pages[rd] = int(ins.op_str.split("#")[1], 16)
             elif ins.mnemonic == "add" and "#" in ins.op_str:
                 parts = [p.strip() for p in ins.op_str.split(",")]
-                if parts[1] in pages:
+                if len(parts) == 3 and parts[1] in pages and parts[2].startswith("#"):
                     tgt = pages[parts[1]] + int(parts[2].lstrip("#"), 16)
                     s = self.cstr(tgt, 120)
                     note = "  ; 0x%x %r" % (tgt, s) if s and len(s) > 3 else "  ; 0x%x" % tgt
