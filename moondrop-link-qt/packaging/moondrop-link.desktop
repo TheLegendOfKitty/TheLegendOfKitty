@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Moondrop Link (unofficial)
+Comment=Touch controls and EQ for Moondrop Space Travel earbuds
+Exec=moondrop-link
+Icon=audio-headphones
+Terminal=false
+Categories=AudioVideo;Audio;Settings;
+Keywords=moondrop;earbuds;bluetooth;eq;gaia;
